@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there I'm Jeremy
 
-<!--
-**Yakaita/Yakaita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I dropped out of college because of Covid and never went back.
 
-Here are some ideas to get you started:
+I really only still code because @kiranhart codes and it inspires me to once again get a big idea that I give up on minutes into starting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The only time I can actively program for more than 5 minutes is when its for a completely useless spreadsheet.
+
+My code usually works but its like you took an Uber from your house to the train station so that you could take an Uber from the train station to your house.
+
+### Life Tasks
+- [x] Find a girlfriend[^1]
+- [x] Propose to her[^yes]
+- [x] Move into my own house
+- [ ] ~~Get a job that pays well~~
+- [ ] Win the lottery[^2]
+- [ ] Retire early and happy
+
+[^1]: She doesnt code
+
+[^yes]: She did in fact say yes
+
+[^2]: Does my $2 win count?
