@@ -2,7 +2,7 @@
 
 I dropped out of college because of Covid and never went back.
 
-I really only still code because @kiranhart codes and it inspires me to once again get a big idea that I give up on minutes into starting.
+I really only still code because [@kiranhart](https://github.com/kiranhart) codes and it inspires me to once again get a big idea that I give up on minutes into starting.
 
 The only time I can actively program for more than 5 minutes is when its for a completely useless spreadsheet.
 
